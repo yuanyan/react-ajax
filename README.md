@@ -32,7 +32,7 @@ npm install react-ajax --save
 ```
 var Ajax = require('react-ajax');
 
-<Ajax onResponse={this.responseHandler} />
+<Ajax url="data.json" onResponse={this.responseHandler} />
 ```
 
 ### Properties
