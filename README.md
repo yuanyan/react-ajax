@@ -5,7 +5,7 @@ Ajax Request Component for React.
 
 ## Demo & Examples
 
-Live demo: [yuanyan.github.io/react-ajax](http://yuanayn.github.io/react-ajax/)
+Live demo: [yuanyan.github.io/react-ajax](http://yuanyan.github.io/react-ajax/)
 
 To build the examples locally, run:
 
